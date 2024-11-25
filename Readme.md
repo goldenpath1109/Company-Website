@@ -1,4 +1,3 @@
 # Company Website
 
 ## Getting Started
-
